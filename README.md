@@ -13,12 +13,12 @@ Siga as instruções abaixo para executar a aplicação localmente:
 ### Instalar Dependências:
 `cd nome-do-projeto`
 `npm install`
-# ou
+#### ou
 `yarn install`
 
 ### Iniciar a Aplicação:
 `npm start`
-# ou
+#### ou
 `yarn start`
 
 Acesse a aplicação no seu navegador: http://localhost:3000
