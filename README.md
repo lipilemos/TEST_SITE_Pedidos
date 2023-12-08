@@ -1,7 +1,27 @@
 # frontend react para consumo da API de pedidos
-## Getting Started with Create React App
+## Como Executar
+Siga as instruções abaixo para executar a aplicação localmente:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Pré-requisitos:
+
+- Node.js instalado
+- npm ou Yarn instalado
+
+### Clonar o Repositório:
+`git clone https://github.com/lipilemos/TEST_SITE_Pedidos.git`
+
+### Instalar Dependências:
+`cd nome-do-projeto`
+`npm install`
+# ou
+`yarn install`
+
+### Iniciar a Aplicação:
+`npm start`
+# ou
+`yarn start`
+
+Acesse a aplicação no seu navegador: http://localhost:3000
 
 ## Available Scripts
 
