@@ -1,0 +1,38 @@
+.contains {
+    margin: 10px;
+    padding: 10px;
+}
+
+.separator {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.separator .botoes {
+    justify-content: space-between;
+    align-items:center;
+    margin: auto;
+}
+
+.editar {
+    margin-right: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+    background-color: rgb(239, 255, 149);    
+}
+
+.deletar {
+    cursor: pointer;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: rgb(255, 149, 149);
+}
+
+.ver {
+    cursor: pointer;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: rgb(161, 255, 149);
+}

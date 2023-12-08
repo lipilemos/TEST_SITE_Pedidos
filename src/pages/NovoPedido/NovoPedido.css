@@ -1,0 +1,14 @@
+.edit_pedido {
+    text-align: center;
+    margin: 10px;
+  }
+  .edit_pedido .table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.itemdeletar{
+    cursor: pointer;
+    background-color: red;    
+}
+  
